@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: gorlor
-  name: 三拼國羅
+  schema_id: gorlor_dev
+  name: 三拼國羅改
   version: "0.3"
   author:
     - inzoi <qq:168432731>
@@ -107,11 +107,11 @@ speller:
     - fuzz/[1234]\>/5/
       # -- 插入完
       
-    - xform/\<([^aeo]?)([aiueoy])1\>/$1$2/
+    - xform/\<([^aeo]?)([aiueoy])1\>/$1$2f/
     - xform/\<([^aeo]?)([aiueoy])2\>/$1$2r/
     - xform/\<([^aeo]?)([aiueoy])3\>/$1$2s/
     - xform/\<([^aeo]?)([aiueoy])4\>/$1$2h/
-    - xform/\<([^aeo]?)([aiueoy])5\>/$1$2f/
+    - xform/\<([^aeo]?)([aiueoy])5\>/$1$2/
     - xform/\<(\w?)([aiueo]?)i([ua]?)1\>/$1$2i$3/
     - xform/\<(\w?)([aiueo]?)i([ua]?)2\>/$1$2j$3/
     - xform/\<(\w?)([aiueo]?)i([ua]?)3\>/$1$2e$3/
@@ -174,11 +174,11 @@ translator:
     - xform/\<sh/S/
     - xlit/zcs/jqx/
     - xlit/ZCS/zcs/
-    - xform/\<([^aeo]?)([aiueoy])1\>/$1$2/ #x
+    - xform/\<([^aeo]?)([aiueoy])1\>/$1$2f/ #x
     - xform/\<([^aeo]?)([aiueoy])2\>/$1$2r/
     - xform/\<([^aeo]?)([aiueoy])3\>/$1$2s/
     - xform/\<([^aeo]?)([aiueoy])4\>/$1$2h/
-    - xform/\<([^aeo]?)([aiueoy])5\>/$1$2f/ #-
+    - xform/\<([^aeo]?)([aiueoy])5\>/$1$2/ #-
     - xform/\<(\w?)([aiueo]?)i([ua]?)1\>/$1$2i$3/ #/z
     - xform/\<(\w?)([aiueo]?)i([ua]?)2\>/$1$2j$3/
     - xform/\<(\w?)([aiueo]?)i([ua]?)3\>/$1$2e$3/
