@@ -14,13 +14,15 @@
 
 
 ## 介紹
+[原文](https://www.newsmth.net/nForum/#!article/Linguistics/79330)
+
+> 三拼国罗方案 以汉语拼音为基础，参考国语罗马字变调，变为 三个字母，既表示声调，又有元音字母，是最短、最自然的输入法与拉丁化汉字方案： 
 ```
-三拼国罗方案 以汉语拼音为基础，参考国语罗马字变调，变为 三个字母，既表示声调，又有元音字母，是最短、最自然的输入法与拉丁化汉字方案：  
 为了zcs与jqx合并的准备：z c s 后的i u un ui ong 变ii ü er uai uang（最终变为ii uu eu oi og）
 三个特殊变化：lün 变len. lo变lua, j q x 的uan 变ua  
 合并声母为单字母：把zh ch sh 变 z c s；把 z c s 变j q x  
 声母：b p m f d t n l g k h j q x z c s r y w  
-韵母（括号是原汉语拼音）：  
+韵母（括号是原汉语拼音）： 
 a(a)    ai(ai)       au(ao)  an(an)  ag(ang)
 i(i)    ii(ii)       iu(iu)  in(in)  ig(ing)
 u(u)    ui(ui,üe,ue) uu(ü)   un(un)  ug(ong,iong)  
@@ -47,12 +49,13 @@ je jei jeu jen jeg =(ze zei zun zen zeng)
 jo joi jou jon jog =(zuo zui zou zuan zong)  
 jy jyi jyu jyn jyg =(jie -- jiao jian jiang)  
 jia jua = (jia juan)  
-m n ng hm hng的12345声分别改为m n g hm hg 加- r s h f  
-三拼国罗介绍视频:http://v.youku.com/v_show/id_XMzI4MjIzNjg2OA==.html
-三拼国罗QQ群群号:288975145  
-春花秋月何时了，往事知多少，小楼昨夜又东风，故国不堪回首月明中。
-雕栏玉砌应犹在，只是朱颜改，问君能有几多愁，恰似一江春水向东流。  
-cunhua qiuyuy hersir lyo, wacsih zi dosao, xyolov joryeh yow dugfeg, guhgor buhkan hujsoo yuymikzug.
-dyulad yuhqih yig yov jay, zissih zuyad gae, wem jun nek yoo jisdo cov, qya xiy yihjyg cunsue xyqdugliv. 
+m n ng hm hng的12345声分别改为m n g hm hg 加- r s h f
+```  
+> 三拼国罗介绍视频:http://v.youku.com/v_show/id_XMzI4MjIzNjg2OA==.html
+> 三拼国罗QQ群群号:288975145  
+> 春花秋月何时了，往事知多少，小楼昨夜又东风，故国不堪回首月明中。
+> 雕栏玉砌应犹在，只是朱颜改，问君能有几多愁，恰似一江春水向东流。  
+> cunhua qiuyuy hersir lyo, wacsih zi dosao, xyolov joryeh yow dugfeg, guhgor buhkan hujsoo yuymikzug.
+> dyulad yuhqih yig yov jay, zissih zuyad gae, wem jun nek yoo jisdo cov, qya xiy yihjyg cunsue xyqdugliv. 
 
-```
+
