@@ -2,7 +2,7 @@
 
 配方： ℞ **baopaau/rime-gorlor**
 
-[Rime](http://rime.im) 三拼國羅（設計者：黃）輸入方案。
+[Rime](http://rime.im) 三拼國羅（設計者：Tiing）輸入方案。
 
 ## 安裝
 
