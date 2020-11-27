@@ -51,8 +51,11 @@ jy jyi jyu jyn jyg =(jie -- jiao jian jiang)
 jia jua = (jia juan)  
 m n ng hm hng的12345声分别改为m n g hm hg 加- r s h f
 ```  
+>
 > 三拼国罗介绍视频:http://v.youku.com/v_show/id_XMzI4MjIzNjg2OA==.html
-> 三拼国罗QQ群群号:288975145  
+>
+> 三拼国罗QQ群群号:288975145 
+> 
 > 春花秋月何时了，往事知多少，小楼昨夜又东风，故国不堪回首月明中。
 > 雕栏玉砌应犹在，只是朱颜改，问君能有几多愁，恰似一江春水向东流。  
 > cunhua qiuyuy hersir lyo, wacsih zi dosao, xyolov joryeh yow dugfeg, guhgor buhkan hujsoo yuymikzug.
